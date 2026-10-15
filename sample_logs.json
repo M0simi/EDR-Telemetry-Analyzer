@@ -1,0 +1,27 @@
+[
+  {
+    "timestamp": "2026-06-01 08:30:12",
+    "process_name": "explorer.exe",
+    "command_line": "C:\\Windows\\Explorer.EXE"
+  },
+  {
+    "timestamp": "2026-06-01 09:15:44",
+    "process_name": "cmd.exe",
+    "command_line": "cmd.exe /c whoami /all"
+  },
+  {
+    "timestamp": "2026-06-01 10:02:19",
+    "process_name": "powershell.exe",
+    "command_line": "powershell -enc SQBFAFgAIAAoAE5ldy1PYmplY3QgTmV0LldlYkNsaWVudCkuRG93bmxvYWRTdHJpbmc..."
+  },
+  {
+    "timestamp": "2026-06-01 11:20:05",
+    "process_name": "notepad.exe",
+    "command_line": "C:\\Windows\\System32\\notepad.exe C:\\notes.txt"
+  },
+  {
+    "timestamp": "2026-06-01 12:45:10",
+    "process_name": "procdump64.exe",
+    "command_line": "procdump64.exe -ma lsass.exe lsass.dmp"
+  }
+]
