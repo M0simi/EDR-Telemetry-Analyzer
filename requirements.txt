@@ -1,0 +1,2 @@
+# EDR Telemetry Analyzer has zero external dependencies.
+# Built-in Python Standard Libraries are used (sys, argparse, json, datetime).
